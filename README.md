@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @Mando328
-- 👀 I’m interested in space science and computer science
-- 🌱 I’m currently learning python and linux
-- 📫 How to reach me mando328 on dc
-- 😄 Pronouns: he/him
 
 
 <!---
